@@ -1,16 +1,12 @@
-# news_app
+# Simple-News-App
 
-A new Flutter project.
+Simple news app to learn how to use API with flutter
 
-## Getting Started
+I made this app as excercise to learn how to use API with flutter , I used Cubit and Bloc packages to get high performence.
 
-This project is a starting point for a Flutter application.
+**Here it's News API** **:-**
+https://newsapi.org/
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screenshots
+![Screenshot_77](https://user-images.githubusercontent.com/97878002/189880034-a6cbf16e-b3ec-417f-9056-533ea7d805f3.png)
+![Screenshot_76](https://user-images.githubusercontent.com/97878002/189880049-4b7c7a88-8ed4-4135-b1e7-50fb1b83abaa.png)
